@@ -40,8 +40,7 @@ An intelligent RAG system that uses an AI agent to decide when and how to retrie
 
 
 
-!\[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aikaksh-Singh-Routela\&show\_icons=true\&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikaksh-Singh-Routela&show_icons=true&theme=dark)
 
 
 \## 🔧 Technologies I Work With
@@ -64,7 +63,7 @@ An intelligent RAG system that uses an AI agent to decide when and how to retrie
 
 
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR\_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/aikaksh-singh-routela-0766b3266)
 
 \[!\[GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Aikaksh-Singh-Routela)
 
