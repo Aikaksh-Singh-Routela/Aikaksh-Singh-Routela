@@ -19,7 +19,8 @@ An intelligent RAG system that uses an AI agent to decide when and how to retrie
 
 ## 📊 GitHub Stats
 
-![Aikaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aikaksh-Singh-Routela&show_icons=true&theme=dark)
+![Aikaksh's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Aikaksh-Singh-Routela&show_icons=true&theme=dark)
+
 
 ## 🔧 Technologies I Work With
 
