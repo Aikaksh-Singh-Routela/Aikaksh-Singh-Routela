@@ -17,10 +17,10 @@ An intelligent RAG system that uses an AI agent to decide when and how to retrie
 
 ---
 
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Aikaksh-Singh-Routela&theme=dark)](https://git.io/streak-stats)
-
 
 ## 🔧 Technologies I Work With
 
